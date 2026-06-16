@@ -1,1 +1,1 @@
-V6 finale : outils triés par type d’usage, outils IA supprimés, noms des outils conservés.
+Vfinale 
