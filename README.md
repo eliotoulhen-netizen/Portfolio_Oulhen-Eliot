@@ -1,2 +1,1 @@
-# Portfolio_Oulhen-Eliot
-Ce site est le portfolio de Oulhen Eliot
+V6 finale : outils triés par type d’usage, outils IA supprimés, noms des outils conservés.
